@@ -15,7 +15,7 @@ void setup() {
   typo = createGraphics(width, height);
 
   //infos.filter(INVERT);
-  input = loadImage("../input/" + usedImage + ".jpg");
+  input = loadImage("../input.jpg");
 
   input.resize(width, height);
   components = new ArrayList<PImage>();
