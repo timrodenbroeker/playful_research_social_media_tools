@@ -20,7 +20,7 @@ void setup() {
   input.resize(width, height);
   components = new ArrayList<PImage>();
 
-  String folder = "components3/";
+  String folder = "components/";
 
   components.add(loadImage("../" + folder + "7.png"));
   components.add(loadImage("../" + folder + "6.png"));

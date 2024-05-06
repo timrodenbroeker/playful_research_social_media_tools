@@ -1,4 +1,4 @@
-# Slideshow-Tool
+# PR Slideshow-Tool
 
 The script takes a folder of images in png format and a sound file and merges everything to a slideshow video
 
@@ -12,9 +12,9 @@ the script takes three arguments:
 3. the framerate
 
 
-## example
+## Examples
 
-./slideshowmaker.sh ./input ./input.mp3
+./script.sh ./input ./input.mp3 1
 
 
 
