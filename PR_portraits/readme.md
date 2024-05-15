@@ -1,3 +1,0 @@
-# PLAYFUL RESEARCH Portrait Generator
-
-
